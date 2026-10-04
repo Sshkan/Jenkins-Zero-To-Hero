@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: driplg/ultimate-cicd:17
+        image: driplg/ultimate-cicd:15
         ports:
         - containerPort: 8080
